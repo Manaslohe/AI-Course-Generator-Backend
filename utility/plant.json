@@ -1,0 +1,323 @@
+[
+  {
+    "plantDescription": "Eucalyptus enhances air quality, offers fast growth, and possesses medicinal properties, making it an eco-friendly and versatile choice.",
+    "plantId": "CHL0001",
+    "plantImage": null,
+    "plantName": "Eucalyptus",
+    "plantOtherName": null,
+    "plantPrice": 849,
+    "soilCondition": "Loamy Moist"
+  },
+  {
+    "plantDescription": "Poplar trees excel in fast growth, aid in soil conservation, and contribute to biodiversity support.",
+    "plantId": "CHL0002",
+    "plantImage": null,
+    "plantName": "Poplar",
+    "plantOtherName": null,
+    "plantPrice": 799
+  },
+  {
+    "plantDescription": "Casuarina trees prevent erosion with deep roots, offer windbreaks, and enhance coastal ecosystems, providing ecological for sustainable landscapes.",
+    "plantId": "CHL0003",
+    "plantImage": null,
+    "plantName": "Casuarina",
+    "plantOtherName": null,
+    "plantPrice": 589
+  },
+  {
+    "plantDescription": "Neem trees yield medicinal neem oil, possess insect-repelling properties, promote soil fertility, and contribute to sustainable agriculture, making them valuable for environmental and health benefits.",
+    "plantId": "CHL0004",
+    "plantImage": "https://firebasestorage.googleapis.com/v0/b/chlorophyll-4d9d7.appspot.com/o/plantCatelogueImages%2FCHL0004.png?alt=media&token=58d5d24b-a602-4863-96cd-6d370f5cf5c9",
+    "plantName": "Neem",
+    "plantOtherName": null,
+    "plantPrice": 499
+  },
+  {
+    "plantDescription": "Bakain trees have insecticidal properties, contribute to traditional medicine, and enhance biodiversity, making them beneficial for ecological sustainability.",
+    "plantId": "CHL0005",
+    "plantImage": null,
+    "plantName": "Bakain",
+    "plantOtherName": null,
+    "plantPrice": 399
+  },
+  {
+    "plantDescription": "Kadam trees offer fast growth, provide non-timber products, aid in soil improvement, and enhance biodiversity, making them valuable for sustainable agroforestry and environmental conservation.",
+    "plantId": "CHL0006",
+    "plantImage": null,
+    "plantName": "Kadam",
+    "plantOtherName": null,
+    "plantPrice": 699
+  },
+  {
+    "plantDescription": "Mango trees offer delicious fruits, contribute to agroforestry, provide shade, improve soil fertility, and support livelihoods, making them a multifaceted choice for sustainable agriculture and environmental well-being.",
+    "plantId": "CHL0007",
+    "plantImage": "https://firebasestorage.googleapis.com/v0/b/chlorophyll-4d9d7.appspot.com/o/plantCatelogueImages%2FCHL0007.png?alt=media&token=4f08e129-ce4b-41a2-947c-22e2a3a4f405",
+    "plantName": "Mango",
+    "plantOtherName": null,
+    "plantPrice": 899
+  },
+  {
+    "plantDescription": "Subabul trees enrich soil fertility, provide fodder for livestock, and assist in reforestation, contributing to sustainable agroforestry practices and environmental conservation.",
+    "plantId": "CHL0008",
+    "plantImage": null,
+    "plantName": "Subabul",
+    "plantOtherName": null,
+    "plantPrice": 799
+  },
+  {
+    "plantDescription": "Oak trees support biodiversity, offer wildlife habitat, and contribute to carbon sequestration, making them essential for sustainable forestry and ecosystems.",
+    "plantId": "CHL0009",
+    "plantImage": null,
+    "plantName": "Silk Oak",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Babool trees thrive in arid regions, preventing soil erosion, supporting biodiversity, and offering multiple benefits for sustainable agroforestry and ecosystem resilience.",
+    "plantId": "CHL0010",
+    "plantImage": null,
+    "plantName": "Subabool",
+    "plantOtherName": null,
+    "plantPrice": 799
+  },
+  {
+    "plantDescription": "Areca palms contribute to lush landscapes, offer shade, and produce betel nuts. With aesthetic appeal and resilience, they enhance environments and serve cultural purposes in tropical regions.",
+    "plantId": "CHL0011",
+    "plantImage": null,
+    "plantName": "Areca Palm",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Jujube trees produce nutritious fruits, are drought-resistant, and support agroforestry. With medicinal uses and adaptability, they promote sustainable farming, resilience, and diverse agricultural practices, especially in arid regions.",
+    "plantId": "CHL0012",
+    "plantImage": null,
+    "plantName": "Jujube",
+    "plantOtherName": null,
+    "plantPrice": 899
+  },
+  {
+    "plantDescription": "Drumstick trees offer nutrient-rich leaves, seeds, and pods, serving as a superfood. With medicinal properties and adaptability, they contribute to health, agroforestry, and sustainable farming practices.",
+    "plantId": "CHL0013",
+    "plantImage": null,
+    "plantName": "Drumstick",
+    "plantOtherName": null,
+    "plantPrice": 1549
+  },
+  {
+    "plantDescription": "Guava trees provide delicious and nutritious fruits, support agroforestry, enhance biodiversity, and offer adaptability to various climates, making them a valuable choice for sustainable orchards and ecological balance.",
+    "plantId": "CHL0014",
+    "plantImage": "https://firebasestorage.googleapis.com/v0/b/chlorophyll-4d9d7.appspot.com/o/plantCatelogueImages%2FCHL0014.png?alt=media&token=8acd28bf-525d-4ab5-8954-1b0caf23e682",
+    "plantName": "Guava",
+    "plantOtherName": null,
+    "plantPrice": 649
+  },
+  {
+    "plantDescription": "Lemon trees yield vitamin-rich fruits, enhance flavor in cuisine, and have medicinal properties. With adaptability and fragrance, they contribute to agroforestry, culinary delight, and sustainable gardening practices.",
+    "plantId": "CHL0015",
+    "plantImage": null,
+    "plantName": "Lemon",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Orange trees bear sweet, vitamin C-rich fruits, promoting health. With refreshing flavor and versatile use, they contribute to agroforestry, nutrition, and environmental aesthetics, fostering sustainable horticulture.",
+    "plantId": "CHL0016",
+    "plantImage": null,
+    "plantName": "Orange",
+    "plantOtherName": null,
+    "plantPrice": 2499
+  },
+  {
+    "plantDescription": "Mosambi trees yield juicy, vitamin C-packed fruits, enhancing health and nutrition. With a pleasant taste, adaptability, and economic value, they are valuable for agroforestry and sustainable fruit cultivation.",
+    "plantId": "CHL0017",
+    "plantImage": null,
+    "plantName": "Mosambi",
+    "plantOtherName": null,
+    "plantPrice": 799
+  },
+  {
+    "plantDescription": "Ashoka trees offer aesthetic beauty, cultural significance, and medicinal properties. With environmental adaptability, they contribute to landscaping, traditional medicine, and biodiversity conservation, enhancing overall well-being.",
+    "plantId": "CHL0018",
+    "plantImage": null,
+    "plantName": "Ashok",
+    "plantOtherName": null,
+    "plantPrice": 399
+  },
+  {
+    "plantDescription": "Bael trees produce nutritious fruits, have medicinal properties, and cultural significance. With adaptability and ecological benefits, they contribute to traditional medicine, agroforestry, and biodiversity conservation.",
+    "plantId": "CHL0019",
+    "plantImage": null,
+    "plantName": "Bael",
+    "plantOtherName": null,
+    "plantPrice": 699
+  },
+  {
+    "plantDescription": "Siris trees support agroforestry, offer shade, and contribute to soil fertility. With rapid growth and adaptability, they are essential for sustainable farming and environmental conservation.",
+    "plantId": "CHL0020",
+    "plantImage": null,
+    "plantName": "Pink Siris",
+    "plantOtherName": null,
+    "plantPrice": 499
+  },
+  {
+    "plantDescription": "Palash trees offer vibrant flowers, have cultural significance, and support agroforestry. With medicinal properties and ecological benefits, they enhance biodiversity, promote soil health, and contribute to sustainable landscapes.",
+    "plantId": "CHL0021",
+    "plantImage": null,
+    "plantName": "Palash",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Amaltas trees adorn landscapes with golden blooms, providing aesthetic beauty. With medicinal uses, adaptability, and support for biodiversity, they contribute to ecological balance and environmental well-being.",
+    "plantId": "CHL0022",
+    "plantImage": null,
+    "plantName": "Amaltas",
+    "plantOtherName": null,
+    "plantPrice": 699
+  },
+  {
+    "plantDescription": "Sissoo trees offer fast-growing timber, shade, and contribute to soil improvement. With adaptability and resilience, they support agroforestry, providing economic, environmental, and aesthetic benefits.",
+    "plantId": "CHL0023",
+    "plantImage": null,
+    "plantName": "Sissoo/Tali",
+    "plantOtherName": null,
+    "plantPrice": 999
+  },
+  {
+    "plantDescription": "Gulmohar trees grace landscapes with vibrant flowers, providing aesthetic beauty. With adaptability and environmental benefits, they contribute to urban greenery, supporting biodiversity and enhancing visual appeal.",
+    "plantId": "CHL0024",
+    "plantImage": null,
+    "plantName": "Gulmohar",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Walnut trees yield nutritious nuts and provide shade. With adaptability and aesthetic appeal, they contribute to agroforestry, culinary diversity, and sustainable forestry practices, supporting livelihoods.",
+    "plantId": "CHL0025",
+    "plantImage": null,
+    "plantName": "Walnut",
+    "plantOtherName": null,
+    "plantPrice": 799
+  },
+  {
+    "plantDescription": "Teak trees show faster growth and adaptability, contributing to agroforestry, providing economic value, carbon sequestration, and environmental stability.",
+    "plantId": "CHL0026",
+    "plantImage": null,
+    "plantName": "Teak",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Arjun trees offer medicinal bark, promote cardiovascular health, and have cultural significance. With adaptability and ecological benefits, they contribute to agroforestry and biodiversity conservation, fostering overall well-being.",
+    "plantId": "CHL0027",
+    "plantImage": null,
+    "plantName": "Arjun",
+    "plantOtherName": null,
+    "plantPrice": 399
+  },
+  {
+    "plantDescription": "Banyan trees symbolize strength, provide extensive shade, and support biodiversity. With aerial prop roots, they contribute to soil stability, making them valuable for cultural significance and ecological balance.",
+    "plantId": "CHL0028",
+    "plantImage": null,
+    "plantName": "Banyan",
+    "plantOtherName": null,
+    "plantPrice": 499
+  },
+  {
+    "plantDescription": "Date palm trees yield nutritious dates, thrive in arid conditions, and contribute to agroforestry. With economic value and cultural importance, they provide sustenance, support livelihoods, and enhance desert ecosystems.",
+    "plantId": "CHL0029",
+    "plantImage": null,
+    "plantName": "Date Palm",
+    "plantOtherName": null,
+    "plantPrice": 799
+  },
+  {
+    "plantDescription": "Jackfruit trees produce large, versatile fruits, offering a meat substitute. With adaptability, nutritional value, and environmental benefits, they contribute to sustainable agriculture, food security, and agroforestry.",
+    "plantId": "CHL0030",
+    "plantImage": null,
+    "plantName": "Jackfruit",
+    "plantOtherName": null,
+    "plantPrice": 799
+  },
+  {
+    "plantDescription": "Rosewood trees yield with rich colour and aroma. With cultural significance, adaptability, and ecological benefits, they contribute to agroforestry, biodiversity conservation, and sustainable forestry practices.",
+    "plantId": "CHL0031",
+    "plantImage": null,
+    "plantName": "Rosewood",
+    "plantOtherName": null,
+    "plantPrice": 499
+  },
+  {
+    "plantDescription": "Sal trees support biodiversity and have cultural significance. With adaptability and ecological benefits, they contribute to agroforestry, carbon sequestration, and sustainable forestry practices.",
+    "plantId": "CHL0032",
+    "plantImage": null,
+    "plantName": "Sal",
+    "plantOtherName": null,
+    "plantPrice": 499
+  },
+  {
+    "plantDescription": "Peepal trees hold cultural and religious significance, provide oxygen, and offer shade. With adaptability and ecological benefits, they contribute to biodiversity, spiritual connection, and sustainable urban greenery.",
+    "plantId": "CHL0033",
+    "plantImage": null,
+    "plantName": "Peepal",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Mahogany trees produce valuable hardwood, support sustainable forestry, and enhance landscapes. With adaptability, they contribute to agroforestry, economic development, and biodiversity conservation, promoting environmental and economic sustainability.",
+    "plantId": "CHL0034",
+    "plantImage": null,
+    "plantName": "Mahogany",
+    "plantOtherName": null,
+    "plantPrice": 999
+  },
+  {
+    "plantDescription": "Wild almond trees provide edible nuts, contribute to biodiversity, and have medicinal properties. With adaptability and ecological benefits, they support agroforestry, offering sustenance, biodiversity, and environmental resilience.",
+    "plantId": "CHL0035",
+    "plantImage": null,
+    "plantName": "Wild Almond",
+    "plantOtherName": null,
+    "plantPrice": 699
+  },
+  {
+    "plantDescription": "Curry trees enrich culinary traditions with aromatic leaves. With adaptability and cultural significance, they contribute to sustainable gardening, culinary diversity, and the preservation of traditional flavors.",
+    "plantId": "CHL0036",
+    "plantImage": null,
+    "plantName": "Curry",
+    "plantOtherName": null,
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Amla trees bear vitamin C-rich fruits, promoting health. With adaptability and medicinal uses, they contribute to agroforestry, supporting nutrition, traditional medicine, and environmental well-being.",
+    "plantId": "CHL0037",
+    "plantImage": null,
+    "plantName": "Amla",
+    "plantOtherName": null,
+    "plantPrice": 699
+  },
+  {
+    "plantDescription": "Harsingar trees, or Night Jasmine, offer fragrant flowers with medicinal properties.",
+    "plantId": "CHL0038",
+    "plantImage": null,
+    "plantName": "Harsingar",
+    "plantOtherName": null,
+    "plantPrice": 449
+  },
+  {
+    "plantDescription": "Plum trees bear delicious, antioxidant-rich fruits. With adaptability and nutritional value, they contribute to agroforestry, supporting health, biodiversity, and sustainable farming practices, especially in tropical regions.",
+    "plantId": "CHL0039",
+    "plantImage": null,
+    "plantName": "Plum",
+    "plantOtherName": "Jamun",
+    "plantPrice": 599
+  },
+  {
+    "plantDescription": "Coconut trees provide versatile products, including nutritious fruits, oil, and fibers. With adaptability and economic importance, they contribute to agroforestry, supporting livelihoods, and environmental sustainability in coastal regions.",
+    "plantId": "CHL0040",
+    "plantImage": null,
+    "plantName": "Coconut",
+    "plantOtherName": null,
+    "plantPrice": 899
+  }
+]

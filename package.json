@@ -1,0 +1,28 @@
+{
+  "name": "programminghub-be",
+  "version": "1.0.0",
+  "description": "A backend server for programming hub platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "prod": "node index.js"
+  },
+  "author": "Arnab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "axios": "^1.6.5",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.41.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express-fileupload": "^1.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.4",
+    "morgan": "^1.10.0"
+  }
+}
